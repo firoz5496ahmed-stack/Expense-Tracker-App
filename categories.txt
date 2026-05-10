@@ -1,0 +1,4 @@
+Food
+Utilities
+
+Transport
